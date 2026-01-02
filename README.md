@@ -79,7 +79,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ### 🔗 Public Sharing
 - Unique shareable URLs for each product (`/p/[shareId]`)
 - Public product views accessible without authentication
-- Social sharing capabilities
 
 ### 🛒 Shopping Cart & Checkout
 - Add to cart functionality
@@ -90,7 +89,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ### 🔍 Filter & Browse
 - Category-based filtering
 - Product browsing and discovery
-- Search capabilities
 
 ## Application Walkthrough
 
